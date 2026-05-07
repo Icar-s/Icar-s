@@ -31,4 +31,4 @@
                                                ⠀⠀⠀⠀⠀                                  
 ```
 # MORE
-[LinkedIn](https://www.linkedin.com/in/icarush/)
+<img src="img/linkedin.png">[LinkedIn](https://www.linkedin.com/in/icarush/)
