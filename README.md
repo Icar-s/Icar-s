@@ -31,4 +31,4 @@
                                                ⠀⠀⠀⠀⠀                                  
 ```
 # MORE
-## <img src="img/linkedin.png" width="24"/> [LinkedIn](https://www.linkedin.com/in/icarush/) | <img src="img/github.png" width="24"/> [Projects](https://github.com/Icar-s/) | <img src="img/gmail.png" width="24"/> [E-mail](https://mail.google.com/mail/?view=cm&fs=1&to=icaro2007ryan@gmail.com&su=Contact%20GitHub&body=)
+## <img src="img/linkedin.png" width="24"/> [LinkedIn](https://www.linkedin.com/in/icarush/) | <img src="img/github.png"  width="24"/> [Projects](https://github.com/Icar-s/) | <img src="img/gmail.png" width="24"/> [E-mail](https://mail.google.com/mail/?view=cm&fs=1&to=icaro2007ryan@gmail.com&su=Contact%20GitHub&body=)
